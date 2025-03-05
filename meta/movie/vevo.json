@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "id": "vevo",
+    "name": "VEVO Music",
+    "year": 2008,
+    "poster": "https://sp.jdinformatica.com/stremio/icons/vevo.png",
+    "posterShape": "regular",
+    "logo": "https://sp.jdinformatica.com/stremio/icons/vevo.png",
+    "background": "https://sp.jdinformatica.com/stremio/icons/vevo.png",
+    "isFree": true,
+    "type": "movie"
+  }
+}
