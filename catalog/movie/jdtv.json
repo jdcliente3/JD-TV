@@ -20,7 +20,7 @@
         "isFree": true,
         "type": "movie"
     },
-    {
+	{
       "id": "sporttv1",
        "name": "Sport TV 1",
         "year": 2008,
@@ -30,7 +30,7 @@
         "isFree": true,
         "type": "movie"
     },
-    {
+	{
       "id": "lovesongs",
        "name": "Love Songs",
         "year": 2008,
@@ -40,23 +40,13 @@
         "isFree": true,
         "type": "movie"
     },
-    {
+	{
       "id": "vevo",
        "name": "VEVO Music",
         "year": 2008,
         "poster": "https://sp.jdinformatica.com/stremio/icons/vevo.png",
         "posterShape": "regular",
         "banner": "https://sp.jdinformatica.com/stremio/icons/vevo.png",
-        "isFree": true,
-        "type": "movie"
-    },
-    {
-      "id": "praiacccds",
-       "name": "Costa de Caparica CDS NORTE ",
-        "year": ,
-        "poster": "https://sp.jdinformatica.com/stremio/icons/praias.png",
-        "posterShape": "regular",
-        "banner": "https://sp.jdinformatica.com/stremio/icons/praias.png",
         "isFree": true,
         "type": "movie"
     }
