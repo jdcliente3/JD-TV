@@ -4,10 +4,10 @@
   "name": "JD TV",
   "description": "JD TV",
   "resources": ["catalog", "meta", "stream"],
-  "types": ["movie"],
+  "types": ["tv"],
   "catalogs": [
     {
-      "type": "movie",
+      "type": "tv",
       "id": "jdtv",
       "name": "Canais de TV"
     }
