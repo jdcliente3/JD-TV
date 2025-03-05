@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "id": "nosstudios",
+    "name": "NOS Studios",
+    "year": 2008,
+    "poster": "https://sp.jdinformatica.com/stremio/icons/nosstudios.png",
+    "posterShape": "regular",
+    "logo": "https://sp.jdinformatica.com/stremio/icons/nosstudios.png",
+    "background": "https://sp.jdinformatica.com/stremio/icons/nosstudios.png",
+    "isFree": true,
+    "type": "movie"
+  }
+}
