@@ -19,6 +19,16 @@
         "banner": "https://sp.jdinformatica.com/stremio/icons/nosstudios.png",
         "isFree": true,
         "type": "movie"
+    },
+	{
+      "id": "lovesongs",
+       "name": "Love Songs",
+        "year": 2008,
+        "poster": "https://sp.jdinformatica.com/stremio/icons/lovesongs.png",
+        "posterShape": "regular",
+        "banner": "https://sp.jdinformatica.com/stremio/icons/lovesongs.png",
+        "isFree": true,
+        "type": "movie"
     }
   ]
 }
