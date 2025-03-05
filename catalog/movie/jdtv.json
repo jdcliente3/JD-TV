@@ -20,7 +20,7 @@
         "isFree": true,
         "type": "movie"
     },
-	{
+    {
       "id": "sporttv1",
        "name": "Sport TV 1",
         "year": 2008,
@@ -30,7 +30,7 @@
         "isFree": true,
         "type": "movie"
     },
-	{
+    {
       "id": "lovesongs",
        "name": "Love Songs",
         "year": 2008,
@@ -40,7 +40,7 @@
         "isFree": true,
         "type": "movie"
     },
-	{
+    {
       "id": "vevo",
        "name": "VEVO Music",
         "year": 2008,
