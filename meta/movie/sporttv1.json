@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "id": "sporttv1",
+    "name": "Sport TV 1",
+    "year": 2008,
+    "poster": "https://sp.jdinformatica.com/stremio/icons/sporttv1.png",
+    "posterShape": "regular",
+    "logo": "https://sp.jdinformatica.com/stremio/icons/sporttv1.png",
+    "background": "https://sp.jdinformatica.com/stremio/icons/sporttv1.png",
+    "isFree": true,
+    "type": "movie"
+  }
+}

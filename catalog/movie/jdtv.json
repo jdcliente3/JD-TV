@@ -21,6 +21,16 @@
         "type": "movie"
     },
 	{
+      "id": "sporttv1",
+       "name": "Sport TV 1",
+        "year": 2008,
+        "poster": "https://sp.jdinformatica.com/stremio/icons/sporttv1.png",
+        "posterShape": "regular",
+        "banner": "https://sp.jdinformatica.com/stremio/icons/sporttv1.png",
+        "isFree": true,
+        "type": "movie"
+    },
+	{
       "id": "lovesongs",
        "name": "Love Songs",
         "year": 2008,
