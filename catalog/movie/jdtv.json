@@ -1,12 +1,12 @@
 {
   "metas": [
     {
-      "id": "sicnoticias",
-       "name": "SIC Notícias",
+      "id": "cancaonova",
+       "name": "Canção Nova",
         "year": 2025,
-        "poster": "https://sp.jdinformatica.com/stremio/icons/sicnoticias.png",
+        "poster": "https://sp.jdinformatica.com/stremio/icons/cancaonova.png",
         "posterShape": "regular",
-        "banner": "https://sp.jdinformatica.com/stremio/icons/sicnoticias.png",
+        "banner": "https://sp.jdinformatica.com/stremio/icons/cancaonova.png",
         "isFree": true,
         "type": "movie"
     },
