@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "id": "cancaonova",
+    "name": "Canção Nova",
+    "year": 2025,
+    "poster": "https://sp.jdinformatica.com/stremio/icons/cancaonova.png",
+    "posterShape": "regular",
+    "logo": "https://sp.jdinformatica.com/stremio/icons/cancaonova.png",
+    "background": "https://sp.jdinformatica.com/stremio/icons/cancaonova.png",
+    "isFree": true,
+    "type": "movie"
+  }
+}
