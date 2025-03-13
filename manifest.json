@@ -10,6 +10,11 @@
       "type": "movie",
       "id": "jdtv",
       "name": "Canais de TV"
+    },
+    {
+      "type": "movie",
+      "id": "jdtv1",
+      "name": "Musica TV"
     }
   ]
 }
