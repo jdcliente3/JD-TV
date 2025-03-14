@@ -1,13 +1,14 @@
 {
-  "meta": {
-    "id": "cancaonova",
-    "name": "Canção Nova",
-    "year": 2025,
-    "poster": "https://sp.jdinformatica.com/stremio/icons/cancaonova.png",
-    "posterShape": "regular",
-    "logo": "https://sp.jdinformatica.com/stremio/icons/cancaonova.png",
-    "background": "https://sp.jdinformatica.com/stremio/icons/cancaonova.png",
-    "isFree": true,
-    "type": "movie"
-  }
+    "meta": {
+        "id": "cancaonova",
+        "name": "Canção Nova",
+        "year": 2025,
+        "description": "Canal de televisão brasileiro pertencente à comunidade católica de mesmo nome, fundada em 1978 pelo Monsenhor Jonas Abib. Com sede em Cachoeira Paulista (SP), o canal faz parte do Sistema Canção Nova de Comunicação e é focado em evangelização, transmitindo missas, programas religiosos, eventos como retiros e acampamentos, além de música cristã, alcançando milhões de espectadores no Brasil e em países como Portugal, Itália e Israel, via TV, rádio e internet.",
+        "poster": "https://sp.jdinformatica.com/stremio/icons/cancaonova.png",
+        "posterShape": "regular",
+        "logo": "https://sp.jdinformatica.com/stremio/icons/cancaonova.png",
+        "background": "https://sp.jdinformatica.com/stremio/icons/cancaonova.png",
+        "isFree": true,
+        "type": "movie"
+    }
 }
