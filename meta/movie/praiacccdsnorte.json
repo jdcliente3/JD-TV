@@ -1,13 +1,13 @@
 {
-  "meta": {
-    "id": "praiacccds",
-    "name": "Costa de Caparica CDS NORTE",
-    "year": 2025,
-    "poster": "https://sp.jdinformatica.com/stremio/icons/praias.png",
-    "posterShape": "regular",
-    "logo": "https://sp.jdinformatica.com/stremio/icons/praias.png",
-    "background": "https://sp.jdinformatica.com/stremio/icons/praias.png",
-    "isFree": true,
-    "type": "movie"
-  }
+    "meta": {
+        "id": "praiacccds",
+        "name": "Costa de Caparica NORTE",
+        "year": 2025,
+        "poster": "https://sp.jdinformatica.com/stremio/icons/costacaparicanorte.png",
+        "posterShape": "regular",
+        "logo": "https://sp.jdinformatica.com/stremio/icons/costacaparicanorte.png",
+        "background": "https://sp.jdinformatica.com/stremio/icons/costacaparicanorte.png",
+        "isFree": true,
+        "type": "movie"
+    }
 }
