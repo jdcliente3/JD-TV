@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+        "availability": 1,
+        "url": "https://cmc-ono.amagi.tv/playlist.m3u8"
+    }
+  ]
+}

@@ -11,12 +11,12 @@
         "type": "movie"
     },
     {
-      "id": "nosstudios",
-       "name": "NOS Studios",
+        "id": "cmcmusic",
+        "name": "CMC California music",
         "year": 2025,
-        "poster": "https://sp.jdinformatica.com/stremio/icons/nosstudios.png",
+        "poster": "https://sp.jdinformatica.com/stremio/icons/cmcmusic.png",
         "posterShape": "regular",
-        "banner": "https://sp.jdinformatica.com/stremio/icons/nosstudios.png",
+        "banner": "https://sp.jdinformatica.com/stremio/icons/cmcmusic.png",
         "isFree": true,
         "type": "movie"
     },

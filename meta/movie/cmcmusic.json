@@ -1,0 +1,13 @@
+{
+    "meta": {
+        "id": "cmcmusic",
+        "name": "CMC California music",
+        "year": 2025,
+        "poster": "https://sp.jdinformatica.com/stremio/icons/cmcmusic.png",
+        "posterShape": "regular",
+        "logo": "https://sp.jdinformatica.com/stremio/icons/cmcmusic.png",
+        "background": "https://sp.jdinformatica.com/stremio/icons/cmcmusic.png",
+        "isFree": true,
+        "type": "movie"
+    }
+}
