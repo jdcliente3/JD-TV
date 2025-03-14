@@ -4,10 +4,10 @@
         "name": "Costa de Caparica NORTE",
         "year": 2025,
         "description": "A Praia da Costa da Caparica Norte, também conhecida como Praia do Norte, é uma das praias mais próximas do centro da vila de Costa da Caparica, em Portugal, situada na extremidade norte da extensa faixa de areal da região. Caracteriza-se por suas águas calmas, areia fina e dourada, e pela presença de quebra-mares que ajudam a conter a erosão, sendo um ponto movimentado, especialmente no verão. Frequentada por famílias, surfistas iniciantes e jovens, oferece fácil acesso a partir da vila, com estacionamento próximo e uma promenade animada com bares e restaurantes, como o Clássico Beach Bar, refletindo o ambiente vibrante e acolhedor típico desta zona costeira.",
-        "poster": "https://sp.jdinformatica.com/stremio/icons/costacaparicanorte.png",
+        "poster": "https://sp.jdinformatica.com/stremio/icons/praiacostacaparicanorte.png",
         "posterShape": "regular",
-        "logo": "https://sp.jdinformatica.com/stremio/icons/costacaparicanorte.png",
-        "background": "https://sp.jdinformatica.com/stremio/icons/costacaparicanorte.png",
+        "logo": "https://sp.jdinformatica.com/stremio/icons/praiacostacaparicanorte.png",
+        "background": "https://sp.jdinformatica.com/stremio/icons/praiacostacaparicanorte.png",
         "isFree": true,
         "type": "movie"
     }
