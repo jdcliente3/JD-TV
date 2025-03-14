@@ -1,13 +1,14 @@
 {
-  "meta": {
-    "id": "assimeportugal",
-    "name": "Assim é Portugal",
-    "year": 2025,
-    "poster": "https://sp.jdinformatica.com/stremio/icons/assimeportugal.png",
-    "posterShape": "regular",
-    "logo": "https://sp.jdinformatica.com/stremio/icons/assimeportugal.png",
-    "background": "https://sp.jdinformatica.com/stremio/icons/assimeportugal.png",
-    "isFree": true,
-    "type": "movie"
-  }
+    "meta": {
+        "id": "assimeportugal",
+        "name": "Assim é Portugal",
+        "year": 2025,
+        "description": "Porgrama de televisão luso-brasileiro que destaca a cultura, gastronomia, turismo e história de Portugal, apresentado por José Carlos Pereira, exibido na TV Max, canal 25 e 525 HD da Net Rio de Janeiro, conectando brasileiros e portugueses apaixonados pela pátria lusitana.",
+        "poster": "https://sp.jdinformatica.com/stremio/icons/assimeportugal.png",
+        "posterShape": "regular",
+        "logo": "https://sp.jdinformatica.com/stremio/icons/assimeportugal.png",
+        "background": "https://sp.jdinformatica.com/stremio/icons/assimeportugal.png",
+        "isFree": true,
+        "type": "movie"
+    }
 }
