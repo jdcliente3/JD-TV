@@ -4,10 +4,10 @@
         "name": "Baía de Cascais",
         "year": 2025,
         "description": "A Praia da Baía de Cascais, também conhecida como Praia dos Pescadores, é uma pequena e pitoresca praia localizada no centro de Cascais, Portugal, junto à vila histórica. Situada entre o Forte de Nossa Senhora da Luz e a Praia da Conceição, é famosa pela sua areia dourada, águas calmas protegidas pela baía e pela proximidade com o casario colorido e os barcos de pesca tradicionais. É um ponto popular tanto para locais quanto para turistas, ideal para banhos de sol, passeios à beira-mar e para aproveitar os restaurantes e cafés próximos, refletindo o charme costeiro da região.",
-        "poster": "https://sp.jdinformatica.com/stremio/icons/praiabaiacascaisposter.png",
+        "poster": "https://sp.jdinformatica.com/stremio/icons/praiabaiacascaisposter.jpg",
         "posterShape": "regular",
         "logo": "https://sp.jdinformatica.com/stremio/icons/praiabaiacascais.png",
-        "background": "https://sp.jdinformatica.com/stremio/icons/praiabaiacascaisposter.png",
+        "background": "https://sp.jdinformatica.com/stremio/icons/praiabaiacascaisposter.jpg",
         "isFree": true,
         "type": "movie"
     }
