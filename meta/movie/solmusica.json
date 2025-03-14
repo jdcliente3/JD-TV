@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "id": "solmusica",
+    "name": "SOL Musica",
+    "year": 2025,
+    "poster": "https://sp.jdinformatica.com/stremio/icons/solmusica.png",
+    "posterShape": "regular",
+    "logo": "https://sp.jdinformatica.com/stremio/icons/solmusica.png",
+    "background": "https://sp.jdinformatica.com/stremio/icons/solmusica.png",
+    "isFree": true,
+    "type": "movie"
+  }
+}

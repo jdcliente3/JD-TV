@@ -20,13 +20,13 @@
         "isFree": true,
         "type": "movie"
     },
-	{
-      "id": "sporttv1",
-       "name": "Sport TV 1",
+    {
+        "id": "solmusica",
+        "name": "Sol Musica",
         "year": 2025,
-        "poster": "https://sp.jdinformatica.com/stremio/icons/sporttv1.png",
+        "poster": "https://sp.jdinformatica.com/stremio/icons/solmusica.png",
         "posterShape": "regular",
-        "banner": "https://sp.jdinformatica.com/stremio/icons/sporttv1.png",
+        "banner": "https://sp.jdinformatica.com/stremio/icons/solmusica.png",
         "isFree": true,
         "type": "movie"
     },
