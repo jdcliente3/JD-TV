@@ -1,13 +1,14 @@
 {
-  "meta": {
-    "id": "solmusica",
-    "name": "SOL Musica",
-    "year": 2025,
-    "poster": "https://sp.jdinformatica.com/stremio/icons/solmusica.png",
-    "posterShape": "regular",
-    "logo": "https://sp.jdinformatica.com/stremio/icons/solmusica.png",
-    "background": "https://sp.jdinformatica.com/stremio/icons/solmusica.png",
-    "isFree": true,
-    "type": "movie"
-  }
+    "meta": {
+        "id": "solmusica",
+        "name": "SOL Musica",
+        "year": 2025,
+        "description": "Canal espanhol de televisão por internet dedicado à música, produzido pela AMC Networks International Southern Europe, que começou a emitir em 1997 e hoje opera como um canal FAST (Free Ad-supported Streaming Television) em plataformas como Orange TV, Jazztel TV (dial 175), Samsung TV Plus e LG Channels (dial 814), focando-se em videoclipes, concertos e artistas emergentes espanhóis.",
+        "poster": "https://sp.jdinformatica.com/stremio/icons/solmusica.png",
+        "posterShape": "regular",
+        "logo": "https://sp.jdinformatica.com/stremio/icons/solmusica.png",
+        "background": "https://sp.jdinformatica.com/stremio/icons/solmusica.png",
+        "isFree": true,
+        "type": "movie"
+    }
 }

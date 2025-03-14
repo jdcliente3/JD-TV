@@ -1,13 +1,14 @@
 {
-  "meta": {
-    "id": "lovesongs",
-    "name": "Love Songs",
-    "year": 2025,
-    "poster": "https://sp.jdinformatica.com/stremio/icons/lovesongs.png",
-    "posterShape": "regular",
-    "logo": "https://sp.jdinformatica.com/stremio/icons/lovesongs.png",
-    "background": "https://sp.jdinformatica.com/stremio/icons/lovesongs.png",
-    "isFree": true,
-    "type": "movie"
-  }
+    "meta": {
+        "id": "lovesongs",
+        "name": "Love Songs",
+        "year": 2025,
+        "description": "Músicas românticas para embalar o coração e a alma.",
+        "poster": "https://sp.jdinformatica.com/stremio/icons/lovesongs.png",
+        "posterShape": "regular",
+        "logo": "https://sp.jdinformatica.com/stremio/icons/lovesongs.png",
+        "background": "https://sp.jdinformatica.com/stremio/icons/lovesongs.png",
+        "isFree": true,
+        "type": "movie"
+    }
 }

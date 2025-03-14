@@ -1,13 +1,14 @@
 {
-  "meta": {
-    "id": "vevo",
-    "name": "VEVO Music",
-    "year": 2025,
-    "poster": "https://sp.jdinformatica.com/stremio/icons/vevo.png",
-    "posterShape": "regular",
-    "logo": "https://sp.jdinformatica.com/stremio/icons/vevo.png",
-    "background": "https://sp.jdinformatica.com/stremio/icons/vevo.png",
-    "isFree": true,
-    "type": "movie"
-  }
+    "meta": {
+        "id": "vevo",
+        "name": "VEVO Music",
+        "year": 2025,
+        "description": "Plataforma americana de hospedagem de vídeos musicais, fundada em 2009 como uma joint venture entre Universal Music Group, Sony Music Entertainment e EMI (mais tarde com Warner Music Group), que distribui videoclipes e conteúdos originais de artistas em canais oficiais no YouTube e em seu próprio site, focando em alta qualidade e parcerias com grandes gravadoras, alcançando bilhões de visualizações mensais.",
+        "poster": "https://sp.jdinformatica.com/stremio/icons/vevo.png",
+        "posterShape": "regular",
+        "logo": "https://sp.jdinformatica.com/stremio/icons/vevo.png",
+        "background": "https://sp.jdinformatica.com/stremio/icons/vevo.png",
+        "isFree": true,
+        "type": "movie"
+    }
 }
