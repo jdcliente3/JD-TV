@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "id": "btv",
+    "name": "Benfica TV",
+    "year": 2025,
+    "poster": "https://sp.jdinformatica.com/stremio/icons/btv.png",
+    "posterShape": "regular",
+    "logo": "https://sp.jdinformatica.com/stremio/icons/btv.png",
+    "background": "https://sp.jdinformatica.com/stremio/icons/btv.png",
+    "isFree": true,
+    "type": "movie"
+  }
+}

@@ -1,64 +1,74 @@
 {
-  "metas": [
-    {
-      "id": "cancaonova",
-       "name": "Canção Nova",
-        "year": 2025,
-        "poster": "https://sp.jdinformatica.com/stremio/icons/cancaonova.png",
-        "posterShape": "regular",
-        "banner": "https://sp.jdinformatica.com/stremio/icons/cancaonova.png",
-        "isFree": true,
-        "type": "movie"
-    },
-    {
-        "id": "sporttv1",
-        "name": "Sport TV 1",
-        "year": 2025,
-        "poster": "https://sp.jdinformatica.com/stremio/icons/sporttv1.png",
-        "posterShape": "regular",
-        "banner": "https://sp.jdinformatica.com/stremio/icons/sporttv1.png",
-        "isFree": true,
-        "type": "movie"
-    },
-    {
-        "id": "sporttv2",
-        "name": "Sport TV 2",
-        "year": 2025,
-        "poster": "https://sp.jdinformatica.com/stremio/icons/sporttv2.png",
-        "posterShape": "regular",
-        "banner": "https://sp.jdinformatica.com/stremio/icons/sporttv2.png",
-        "isFree": true,
-        "type": "movie"
-    },
-    {
-        "id": "sporttv5",
-        "name": "Sport TV 5",
-        "year": 2025,
-        "poster": "https://sp.jdinformatica.com/stremio/icons/sporttv5.png",
-        "posterShape": "regular",
-        "banner": "https://sp.jdinformatica.com/stremio/icons/sporttv5.png",
-        "isFree": true,
-        "type": "movie"
-    },
-	{
-      "id": "cmtv",
-       "name": "CMTV Noticias",
-        "year": 2025,
-        "poster": "https://sp.jdinformatica.com/stremio/icons/cmtv.png",
-        "posterShape": "regular",
-        "banner": "https://sp.jdinformatica.com/stremio/icons/cmtv.png",
-        "isFree": true,
-        "type": "movie"
-    },
-	{
-      "id": "now",
-       "name": "NOW Noticias",
-        "year": 2025,
-        "poster": "https://sp.jdinformatica.com/stremio/icons/now.png",
-        "posterShape": "regular",
-        "banner": "https://sp.jdinformatica.com/stremio/icons/now.png",
-        "isFree": true,
-        "type": "movie"
-    }
-  ]
+    "metas": [
+        {
+            "id": "cancaonova",
+            "name": "Canção Nova",
+            "year": 2025,
+            "poster": "https://sp.jdinformatica.com/stremio/icons/cancaonova.png",
+            "posterShape": "regular",
+            "banner": "https://sp.jdinformatica.com/stremio/icons/cancaonova.png",
+            "isFree": true,
+            "type": "movie"
+        },
+        {
+            "id": "sporttv1",
+            "name": "Sport TV 1",
+            "year": 2025,
+            "poster": "https://sp.jdinformatica.com/stremio/icons/sporttv1.png",
+            "posterShape": "regular",
+            "banner": "https://sp.jdinformatica.com/stremio/icons/sporttv1.png",
+            "isFree": true,
+            "type": "movie"
+        },
+        {
+            "id": "sporttv2",
+            "name": "Sport TV 2",
+            "year": 2025,
+            "poster": "https://sp.jdinformatica.com/stremio/icons/sporttv2.png",
+            "posterShape": "regular",
+            "banner": "https://sp.jdinformatica.com/stremio/icons/sporttv2.png",
+            "isFree": true,
+            "type": "movie"
+        },
+        {
+            "id": "sporttv5",
+            "name": "Sport TV 5",
+            "year": 2025,
+            "poster": "https://sp.jdinformatica.com/stremio/icons/sporttv5.png",
+            "posterShape": "regular",
+            "banner": "https://sp.jdinformatica.com/stremio/icons/sporttv5.png",
+            "isFree": true,
+            "type": "movie"
+        },
+        {
+            "id": "btv",
+            "name": "Benfica TV",
+            "year": 2025,
+            "poster": "https://sp.jdinformatica.com/stremio/icons/btv.png",
+            "posterShape": "regular",
+            "banner": "https://sp.jdinformatica.com/stremio/icons/btv.png",
+            "isFree": true,
+            "type": "movie"
+        },
+        {
+            "id": "cmtv",
+            "name": "CMTV Noticias",
+            "year": 2025,
+            "poster": "https://sp.jdinformatica.com/stremio/icons/cmtv.png",
+            "posterShape": "regular",
+            "banner": "https://sp.jdinformatica.com/stremio/icons/cmtv.png",
+            "isFree": true,
+            "type": "movie"
+        },
+        {
+            "id": "now",
+            "name": "NOW Noticias",
+            "year": 2025,
+            "poster": "https://sp.jdinformatica.com/stremio/icons/now.png",
+            "posterShape": "regular",
+            "banner": "https://sp.jdinformatica.com/stremio/icons/now.png",
+            "isFree": true,
+            "type": "movie"
+        }
+    ]
 }
