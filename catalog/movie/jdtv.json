@@ -20,13 +20,23 @@
         "isFree": true,
         "type": "movie"
     },
-	{
-      "id": "sporttv2",
-       "name": "Sport TV 2",
+    {
+        "id": "sporttv2",
+        "name": "Sport TV 2",
         "year": 2025,
         "poster": "https://sp.jdinformatica.com/stremio/icons/sporttv2.png",
         "posterShape": "regular",
         "banner": "https://sp.jdinformatica.com/stremio/icons/sporttv2.png",
+        "isFree": true,
+        "type": "movie"
+    },
+    {
+        "id": "sporttv5",
+        "name": "Sport TV 5",
+        "year": 2025,
+        "poster": "https://sp.jdinformatica.com/stremio/icons/sporttv5.png",
+        "posterShape": "regular",
+        "banner": "https://sp.jdinformatica.com/stremio/icons/sporttv5.png",
         "isFree": true,
         "type": "movie"
     },
@@ -47,16 +57,6 @@
         "poster": "https://sp.jdinformatica.com/stremio/icons/now.png",
         "posterShape": "regular",
         "banner": "https://sp.jdinformatica.com/stremio/icons/now.png",
-        "isFree": true,
-        "type": "movie"
-    },
-	{
-      "id": "praiacccds",
-       "name": "Costa de Caparica CDS NORTE",
-        "year": 2025,
-        "poster": "https://sp.jdinformatica.com/stremio/icons/praias.png",
-        "posterShape": "regular",
-        "banner": "https://sp.jdinformatica.com/stremio/icons/praias.png",
         "isFree": true,
         "type": "movie"
     }

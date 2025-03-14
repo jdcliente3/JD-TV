@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "id": "sporttv5",
+    "name": "Sport TV 5",
+    "year": 2025,
+    "poster": "https://sp.jdinformatica.com/stremio/icons/sporttv5.png",
+    "posterShape": "regular",
+    "logo": "https://sp.jdinformatica.com/stremio/icons/sporttv5.png",
+    "background": "https://sp.jdinformatica.com/stremio/icons/sporttv5.png",
+    "isFree": true,
+    "type": "movie"
+  }
+}
