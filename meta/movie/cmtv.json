@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "id": "cmtv",
+    "name": "CMTV Noticias",
+    "year": 2025,
+    "poster": "https://sp.jdinformatica.com/stremio/icons/cmtv.png",
+    "posterShape": "regular",
+    "logo": "https://sp.jdinformatica.com/stremio/icons/cmtv.png",
+    "background": "https://sp.jdinformatica.com/stremio/icons/cmtv.png",
+    "isFree": true,
+    "type": "movie"
+  }
+}

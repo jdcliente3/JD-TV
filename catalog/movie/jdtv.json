@@ -11,18 +11,8 @@
         "type": "movie"
     },
     {
-      "id": "nosstudios",
-       "name": "NOS Studios",
-        "year": 2025,
-        "poster": "https://sp.jdinformatica.com/stremio/icons/nosstudios.png",
-        "posterShape": "regular",
-        "banner": "https://sp.jdinformatica.com/stremio/icons/nosstudios.png",
-        "isFree": true,
-        "type": "movie"
-    },
-	{
-      "id": "sporttv1",
-       "name": "Sport TV 1",
+        "id": "sporttv1",
+        "name": "Sport TV 1",
         "year": 2025,
         "poster": "https://sp.jdinformatica.com/stremio/icons/sporttv1.png",
         "posterShape": "regular",
@@ -31,22 +21,32 @@
         "type": "movie"
     },
 	{
-      "id": "lovesongs",
-       "name": "Love Songs",
+      "id": "sporttv2",
+       "name": "Sport TV 2",
         "year": 2025,
-        "poster": "https://sp.jdinformatica.com/stremio/icons/lovesongs.png",
+        "poster": "https://sp.jdinformatica.com/stremio/icons/sporttv2.png",
         "posterShape": "regular",
-        "banner": "https://sp.jdinformatica.com/stremio/icons/lovesongs.png",
+        "banner": "https://sp.jdinformatica.com/stremio/icons/sporttv2.png",
         "isFree": true,
         "type": "movie"
     },
 	{
-      "id": "vevo",
-       "name": "VEVO Music",
+      "id": "cmtv",
+       "name": "CMTV Noticias",
         "year": 2025,
-        "poster": "https://sp.jdinformatica.com/stremio/icons/vevo.png",
+        "poster": "https://sp.jdinformatica.com/stremio/icons/cmtv.png",
         "posterShape": "regular",
-        "banner": "https://sp.jdinformatica.com/stremio/icons/vevo.png",
+        "banner": "https://sp.jdinformatica.com/stremio/icons/cmtv.png",
+        "isFree": true,
+        "type": "movie"
+    },
+	{
+      "id": "now",
+       "name": "NOW Noticias",
+        "year": 2025,
+        "poster": "https://sp.jdinformatica.com/stremio/icons/now.png",
+        "posterShape": "regular",
+        "banner": "https://sp.jdinformatica.com/stremio/icons/now.png",
         "isFree": true,
         "type": "movie"
     },

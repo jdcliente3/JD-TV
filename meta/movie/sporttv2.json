@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "id": "sporttv2",
+    "name": "Sport TV 2",
+    "year": 2025,
+    "poster": "https://sp.jdinformatica.com/stremio/icons/sporttv2.png",
+    "posterShape": "regular",
+    "logo": "https://sp.jdinformatica.com/stremio/icons/sporttv2.png",
+    "background": "https://sp.jdinformatica.com/stremio/icons/sporttv2.png",
+    "isFree": true,
+    "type": "movie"
+  }
+}

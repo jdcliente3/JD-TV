@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "id": "now",
+    "name": "NOW Noticias",
+    "year": 2025,
+    "poster": "https://sp.jdinformatica.com/stremio/icons/now.png",
+    "posterShape": "regular",
+    "logo": "https://sp.jdinformatica.com/stremio/icons/now.png",
+    "background": "https://sp.jdinformatica.com/stremio/icons/now.png",
+    "isFree": true,
+    "type": "movie"
+  }
+}
