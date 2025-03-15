@@ -1,12 +1,12 @@
 {
   "metas": [
     {
-        "id": "almalusa",
-        "name": "Alma Lusa",
+        "id": "assimeportugal",
+        "name": "Assim é Portugal",
         "year": 2025,
-        "poster": "https://sp.jdinformatica.com/stremio/icons/almalusa.png",
+        "poster": "https://sp.jdinformatica.com/stremio/icons/assimeportugal.png",
         "posterShape": "regular",
-        "banner": "https://sp.jdinformatica.com/stremio/icons/almalusa.png",
+        "banner": "https://sp.jdinformatica.com/stremio/icons/assimeportugal.png",
         "isFree": true,
         "type": "movie"
     },
@@ -51,12 +51,12 @@
         "type": "movie"
     },
     {
-        "id": "assimeportugal",
-        "name": "Assim é Portugal",
+        "id": "almalusa",
+        "name": "Alma Lusa",
         "year": 2025,
-        "poster": "https://sp.jdinformatica.com/stremio/icons/assimeportugal.png",
+        "poster": "https://sp.jdinformatica.com/stremio/icons/almalusa.png",
         "posterShape": "regular",
-        "banner": "https://sp.jdinformatica.com/stremio/icons/assimeportugal.png",
+        "banner": "https://sp.jdinformatica.com/stremio/icons/almalusa.png",
         "isFree": true,
         "type": "movie"
     }
