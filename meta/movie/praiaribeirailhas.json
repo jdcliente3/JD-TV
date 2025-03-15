@@ -1,13 +1,13 @@
 {
-  "meta": {
-    "id": "praiaribeirailhas",
-    "name": "Ribeira D´Ilhas",
-    "year": 2025,
-    "poster": "https://sp.jdinformatica.com/stremio/icons/praias.png",
-    "posterShape": "regular",
-    "logo": "https://sp.jdinformatica.com/stremio/icons/praias.png",
-    "background": "https://sp.jdinformatica.com/stremio/icons/praias.png",
-    "isFree": true,
-    "type": "movie"
-  }
+    "meta": {
+        "id": "praiaribeirailhas",
+        "name": "Ribeira D´Ilhas",
+        "year": 2025,
+        "poster": "https://sp.jdinformatica.com/stremio/icons/praiaribeirailhas.png",
+        "posterShape": "regular",
+        "logo": "https://sp.jdinformatica.com/stremio/icons/praiaribeirailhas.png",
+        "background": "https://sp.jdinformatica.com/stremio/icons/praiaribeirailhas.png",
+        "isFree": true,
+        "type": "movie"
+    }
 }
