@@ -1,25 +1,25 @@
 {
-  "id": "com.stremio.nowexample",
-  "version": "0.0.1",
-  "name": "JD TV",
-  "description": "JD TV",
-  "resources": ["catalog", "meta", "stream"],
-  "types": ["movie"],
-  "catalogs": [
-    {
-      "type": "movie",
-      "id": "jdtv",
-      "name": "Canais de TV"
-    },
-    {
-      "type": "movie",
-      "id": "jdtv1",
-      "name": "Musica TV"
-    },
-	{
-      "type": "movie",
-      "id": "jdtv2",
-      "name": "Praias"
-    }
-  ]
+    "id": "com.stremio.nowexample",
+    "version": "0.0.1",
+    "name": "JD TV",
+    "description": "JD TV",
+    "resources": [ "catalog", "meta", "stream" ],
+    "types": [ "movie" ],
+    "catalogs": [
+        {
+            "type": "movie",
+            "id": "jdtv2",
+            "name": "Praias"
+        },
+        {
+            "type": "movie",
+            "id": "jdtv1",
+            "name": "Musica TV"
+        },
+        {
+            "type": "movie",
+            "id": "jdtv",
+            "name": "Canais de TV"
+        }
+    ]
 }

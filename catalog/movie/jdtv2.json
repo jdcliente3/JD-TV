@@ -2,7 +2,7 @@
   "metas": [
     {
         "id": "praiacccdsnorte",
-        "name": "Costa de Caparica CDS NORTE",
+        "name": "Costa de Caparica NORTE",
         "year": 2025,
         "poster": "https://sp.jdinformatica.com/stremio/icons/praiacostacaparicanorte.png",
         "posterShape": "regular",
@@ -12,7 +12,7 @@
     },
     {
         "id": "praiacccdssul",
-        "name": "Costa de Caparica CDS SUL",
+        "name": "Costa de Caparica SUL",
         "year": 2025,
         "poster": "https://sp.jdinformatica.com/stremio/icons/praias.png",
         "posterShape": "regular",
