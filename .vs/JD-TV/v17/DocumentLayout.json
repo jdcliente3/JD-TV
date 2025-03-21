@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\POS\\source\\repos\\jdcliente3\\JD-TV\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\POS\\source\\repos\\jdcliente3\\JD-TV\\stream\\movie\\almalusa.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:stream\\movie\\almalusa.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\POS\\source\\repos\\jdcliente3\\JD-TV\\stream\\movie\\cancaonova.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:stream\\movie\\cancaonova.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\POS\\source\\repos\\jdcliente3\\JD-TV\\stream\\movie\\sporttv5.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:stream\\movie\\sporttv5.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\POS\\source\\repos\\jdcliente3\\JD-TV\\meta\\movie\\cancaonova.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:meta\\movie\\cancaonova.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\POS\\source\\repos\\jdcliente3\\JD-TV\\stream\\movie\\sporttv2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:stream\\movie\\sporttv2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\POS\\source\\repos\\jdcliente3\\JD-TV\\stream\\movie\\sporttv1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:stream\\movie\\sporttv1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\POS\\source\\repos\\jdcliente3\\JD-TV\\catalog\\movie\\jdtv.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:catalog\\movie\\jdtv.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,54 +34,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "sporttv1.json",
-              "DocumentMoniker": "C:\\Users\\POS\\source\\repos\\jdcliente3\\JD-TV\\stream\\movie\\sporttv1.json",
-              "RelativeDocumentMoniker": "stream\\movie\\sporttv1.json",
-              "ToolTip": "C:\\Users\\POS\\source\\repos\\jdcliente3\\JD-TV\\stream\\movie\\sporttv1.json",
-              "RelativeToolTip": "stream\\movie\\sporttv1.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-20T10:42:14.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "sporttv2.json",
-              "DocumentMoniker": "C:\\Users\\POS\\source\\repos\\jdcliente3\\JD-TV\\stream\\movie\\sporttv2.json",
-              "RelativeDocumentMoniker": "stream\\movie\\sporttv2.json",
-              "ToolTip": "C:\\Users\\POS\\source\\repos\\jdcliente3\\JD-TV\\stream\\movie\\sporttv2.json",
-              "RelativeToolTip": "stream\\movie\\sporttv2.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-20T10:42:27.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "sporttv5.json",
-              "DocumentMoniker": "C:\\Users\\POS\\source\\repos\\jdcliente3\\JD-TV\\stream\\movie\\sporttv5.json",
-              "RelativeDocumentMoniker": "stream\\movie\\sporttv5.json",
-              "ToolTip": "C:\\Users\\POS\\source\\repos\\jdcliente3\\JD-TV\\stream\\movie\\sporttv5.json",
-              "RelativeToolTip": "stream\\movie\\sporttv5.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "cancaonova.json",
+              "DocumentMoniker": "C:\\Users\\POS\\source\\repos\\jdcliente3\\JD-TV\\meta\\movie\\cancaonova.json",
+              "RelativeDocumentMoniker": "meta\\movie\\cancaonova.json",
+              "ToolTip": "C:\\Users\\POS\\source\\repos\\jdcliente3\\JD-TV\\meta\\movie\\cancaonova.json",
+              "RelativeToolTip": "meta\\movie\\cancaonova.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-20T10:42:33.752Z",
+              "WhenOpened": "2025-03-21T15:45:00.054Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "almalusa.json",
-              "DocumentMoniker": "C:\\Users\\POS\\source\\repos\\jdcliente3\\JD-TV\\stream\\movie\\almalusa.json",
-              "RelativeDocumentMoniker": "stream\\movie\\almalusa.json",
-              "ToolTip": "C:\\Users\\POS\\source\\repos\\jdcliente3\\JD-TV\\stream\\movie\\almalusa.json",
-              "RelativeToolTip": "stream\\movie\\almalusa.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABUAAAAAAAAAA==",
+              "Title": "cancaonova.json",
+              "DocumentMoniker": "C:\\Users\\POS\\source\\repos\\jdcliente3\\JD-TV\\stream\\movie\\cancaonova.json",
+              "RelativeDocumentMoniker": "stream\\movie\\cancaonova.json",
+              "ToolTip": "C:\\Users\\POS\\source\\repos\\jdcliente3\\JD-TV\\stream\\movie\\cancaonova.json",
+              "RelativeToolTip": "stream\\movie\\cancaonova.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-20T10:43:38.039Z",
+              "WhenOpened": "2025-03-21T15:28:40.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "jdtv.json",
+              "DocumentMoniker": "C:\\Users\\POS\\source\\repos\\jdcliente3\\JD-TV\\catalog\\movie\\jdtv.json",
+              "RelativeDocumentMoniker": "catalog\\movie\\jdtv.json",
+              "ToolTip": "C:\\Users\\POS\\source\\repos\\jdcliente3\\JD-TV\\catalog\\movie\\jdtv.json",
+              "RelativeToolTip": "catalog\\movie\\jdtv.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-21T15:45:44.557Z",
               "EditorCaption": ""
             }
           ]
